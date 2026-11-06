@@ -114,7 +114,7 @@ a:focus-visible {
 	align-items: center;
 	min-height: 610px;
 	padding: 96px 28px;
-	background-image: linear-gradient(rgba(18, 82, 105, 0.72), rgba(16, 42, 67, 0.82)), url('img/hero-bg.jpg');
+	background-image: linear-gradient(rgba(30, 32, 33, 0.72), rgba(142, 167, 190, 0.82)), url('img/hero-bg.jpg');
 	background-position: center;
 	background-size: cover;
 }
